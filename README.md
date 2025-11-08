@@ -1,4 +1,4 @@
-# SmartE_Reminder
+# SmartE_Reminder 珠海科技学院宿舍电费缴纳提醒程序
 
 珠海科技学院宿舍电费缴纳提醒程序
 
